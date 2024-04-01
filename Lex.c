@@ -1,7 +1,5 @@
 // /****************************************************************************************
 // *  Ugonna Ezeokoli
-// *  uezeokol
-// *  2024 Winter CSE101 PA1 
 // *  Lex.c
 // *  Reads the input file and outputs the contents of it in lexicographical order
 // *****************************************************************************************/
