@@ -1,11 +1,6 @@
 
  
 #------------------------------------------------------------------------------
-# Ugonna Ezeokoli
-# uezeokol 
-# 2024 Winter CSE101 PA1 
-# Makefile for CSE 101 Programming Assignment 1
-#
 # make                   makes Lex
 # make ListTest        makes ListTest
 # make clean             removes all binaries
